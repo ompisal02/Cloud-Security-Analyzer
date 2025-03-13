@@ -21,6 +21,7 @@ git clone https://github.com/ompisal02/Cloud-Security-Analyzer.git
 cd Cloud-Security-Analyzer  
 pip install -r requirements.txt  
 python security_audit.py
+```
 
 ## 📢 Contributors  
 - **Om Pisal**
